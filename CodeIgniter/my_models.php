@@ -11,18 +11,36 @@
  * ---------------------- Models to Load ----------------------
  * <examples>
  *
- * @property membership_model $membership_model
- * @property site_model       $site_model
- * @property data_model       $data_model
- * @property products_model   $products_model
- * @property film_model       $film_model
- * @property film_model1      $film_model1
+ * @property mdl_companies $mdl_companies
+ * @property mdl_accounts $mdl_accounts
+ * @property mdl_base $mdl_base
+ * @property mdl_calendar $mdl_calendar
+ * @property mdl_common $mdl_common
+ * @property mdl_enums $mdl_enums
+ * @property mdl_error $mdl_error
+ * @property mdl_logs $mdl_logs
+ * @property mdl_products $mdl_products
+ * @property mdl_queue $mdl_queue
+ * @property mdl_survey $mdl_survey
+ * @property mdl_templates $mdl_templates
+ * @property mdl_tools $mdl_tools
+ * @property mdl_transactions $mdl_transactions
+ * @property mdl_users $mdl_users
+ * @property mdl_backup $mdl_backup
+ * @property mdl_boards $mdl_boards
+ * @property mdl_drafts $mdl_drafts
+ * @property mdl_jobs $mdl_jobs
+ * @property mdl_pools $mdl_pools
+ *
+ *
  *
  *
  *
  */
+
 class my_models
 {
+
 }
 
-// End my_models.php
+// End my_models
