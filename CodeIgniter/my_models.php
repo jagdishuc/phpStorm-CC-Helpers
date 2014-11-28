@@ -31,6 +31,7 @@
  * @property mdl_drafts $mdl_drafts
  * @property mdl_jobs $mdl_jobs
  * @property mdl_pools $mdl_pools
+ * @property mdl_aggregation $mdl_aggregation
  *
  *
  *
