@@ -32,6 +32,7 @@
  * @property mdl_jobs $mdl_jobs
  * @property mdl_pools $mdl_pools
  * @property mdl_aggregation $mdl_aggregation
+ * @property mdl_security $mdl_security
  *
  *
  *
